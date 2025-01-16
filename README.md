@@ -1,1 +1,1 @@
-# REDUX-SHOPPING-CART
+# ReduxShop
